@@ -1,7 +1,5 @@
-SQLite3DBSample
-===============
+SQLite Sample
 
-SQLite3 database example app.
 
 This project also include basic DBManager sqlite class. This class is usable for any project. Class is flexiable and powerful.
 
@@ -15,8 +13,4 @@ This project also include basic DBManager sqlite class. This class is usable for
   5. Create query
   6. Call "executeQuery:" method. If select query executed, get array from database, Otherwise get affectedRows count.
 
-It's just like that. Very simple to use your project.
 
-Application UI:
-
-![Bilal ARSLAN](https://github.com/ArslanBilal/SQLite3DBSample/raw/master/Media%20for%20Project/gif1.gif)
