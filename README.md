@@ -1,4 +1,5 @@
-SQLite Sample
+
+<h4>SQLite Sample</h4>
 
 
 This project also include basic DBManager sqlite class. This class is usable for any project. Class is flexiable and powerful.
